@@ -22,7 +22,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (7º período) com foco em d
 
 -   🏗️ Desenvolvimento de aplicações web
 -   ⚡ Lógica de programação e resolução de problemas
--   🧩 CBoas práticas de código (Clean Code)
+-   🧩 Boas práticas de código (Clean Code)
 -   🗄️ Modelagem básica de banco de dados (MySQL)
 -   📊 Criação de interfaces web responsivas
 
