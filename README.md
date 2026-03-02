@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (7º período) com foco em d
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Contato
 
 <p align="left">
   <a href="https://github.com/ArthurAdriel">
